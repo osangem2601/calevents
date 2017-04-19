@@ -9,7 +9,8 @@ Requirements 1, 2 and 3 are satisfied.
 TODO:
 1. Add exception handler
 2. Validate user, calendar and event ids
-3. Complete requirements 4 to 7.
+3. Add unit tests
+4. Complete requirements 4 to 7.
 
 
 The requirements:
